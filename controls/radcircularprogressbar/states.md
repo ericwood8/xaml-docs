@@ -90,4 +90,5 @@ RadCircularProgressBar allows you to modify the ratio of the progress indicator,
 {{endregion}}
 
 ## See Also
+* [Indeterminate State Animation Customization]({%slug radcircularprogressbar-animation-customization%})
 * [Segments]({%slug radcircularprogressbar-segments%})
